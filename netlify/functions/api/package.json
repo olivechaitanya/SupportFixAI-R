@@ -1,0 +1,8 @@
+{
+  "name": "supportfix-ai-api",
+  "version": "1.0.0",
+  "main": "chat.js",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}

@@ -12,7 +12,7 @@
   status = 200
 
 [functions]
-  directory = "api/"
+  directory = "netlify/functions"
 
 [[headers]]
   for = "/*"
