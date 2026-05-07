@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: supportfix-ai
+    env: docker
+    dockerfilePath: ./Dockerfile
+    autoDeploy: true
+    envVars:
+      - key: GEMINI_API_KEY
+        value: AIzaSyCrMCSPZqNN8GqDHXbudkzHWwQ9SL7FH8s
+      - key: GEMINI_MODEL
+        value: gemini-2.5-flash
+      - key: PORT
+        value: 8000
+    healthCheck:
+      path: /
+      timeout: 100
+      interval: 10
