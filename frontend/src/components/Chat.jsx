@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import Message from "./Message";
 
-const API_URL = "http://localhost:8000/chat";
+const API_URL = "/api/chat";
 const STORAGE_KEY = "supportfix-ai-history";
 const QUICK_PROMPTS = [
   "My WiFi is not working",
