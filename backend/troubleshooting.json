@@ -1,0 +1,200 @@
+{
+  "internet_issue": {
+    "title": "Internet Connection Problem",
+    "steps": [
+      "Check whether your router and modem are powered on and all status lights look normal.",
+      "Restart the router and modem by unplugging them for 30 seconds, then plug them back in.",
+      "Make sure Wi-Fi is enabled on your device and reconnect to the correct network.",
+      "Test another website or app to confirm whether the issue is with the internet or one specific service.",
+      "Move closer to the router or remove obstacles that may weaken the wireless signal.",
+      "If the issue continues on all devices, contact your internet service provider."
+    ]
+  },
+  "login_issue": {
+    "title": "Login or Password Problem",
+    "steps": [
+      "Confirm that the username or email address is typed correctly.",
+      "Check that Caps Lock is off and re-enter the password carefully.",
+      "Use the password reset option if you cannot remember your credentials.",
+      "Clear browser cache and cookies if the login page keeps rejecting valid credentials.",
+      "Try logging in from another browser or device to rule out a browser-specific issue.",
+      "If your account is locked, contact the administrator or support team."
+    ]
+  },
+  "slow_system": {
+    "title": "Slow Computer or System Performance",
+    "steps": [
+      "Close unnecessary apps and browser tabs that may be consuming memory or CPU.",
+      "Restart the system to clear temporary processes and free up resources.",
+      "Check available disk space and remove unused files if storage is almost full.",
+      "Run a malware or antivirus scan to detect harmful software affecting performance.",
+      "Install pending system and driver updates.",
+      "If the system remains slow, review startup apps and disable non-essential ones."
+    ]
+  },
+  "printer_issue": {
+    "title": "Printer Not Working",
+    "steps": [
+      "Make sure the printer is powered on and connected to the computer or network.",
+      "Check for paper jams, low ink, or toner warnings on the printer display.",
+      "Set the correct printer as the default printer in system settings.",
+      "Cancel any stuck print jobs and try printing a test page.",
+      "Restart both the printer and the computer.",
+      "Reinstall or update the printer driver if printing still fails."
+    ]
+  },
+  "email_issue": {
+    "title": "Email Sending or Receiving Problem",
+    "steps": [
+      "Verify that your internet connection is working properly.",
+      "Check that the email address and password configured in the mail app are correct.",
+      "Review the spam, junk, or quarantine folders for missing messages.",
+      "Confirm that your mailbox is not full and has enough storage available.",
+      "Sign out and sign back into the email application.",
+      "If the issue persists, verify the incoming and outgoing mail server settings."
+    ]
+  },
+  "audio_issue": {
+    "title": "Sound or Audio Problem",
+    "steps": [
+      "Make sure the device volume is turned up and not muted.",
+      "Check whether the correct speaker or headset is selected as the output device.",
+      "Reconnect headphones, speakers, or Bluetooth audio devices if applicable.",
+      "Restart the audio application and test sound in another app.",
+      "Update or reinstall the audio driver from device settings.",
+      "Restart the computer if audio still does not work."
+    ]
+  },
+  "display_issue": {
+    "title": "Screen or Display Problem",
+    "steps": [
+      "Check that the monitor is powered on and connected securely.",
+      "Adjust the brightness settings to ensure the screen is not dimmed.",
+      "Reconnect or replace the HDMI, DisplayPort, or VGA cable.",
+      "Press the monitor input/source button and select the correct input.",
+      "Restart the computer and test with an external display if available.",
+      "Update the graphics driver if the display flickers or remains blank."
+    ]
+  },
+  "battery_issue": {
+    "title": "Battery or Charging Problem",
+    "steps": [
+      "Confirm that the charging cable and power adapter are connected firmly.",
+      "Try a different wall outlet or charger if one is available.",
+      "Inspect the charging port for dust or visible damage.",
+      "Restart the device and check whether charging resumes.",
+      "Reduce heavy background usage that may drain the battery faster than it charges.",
+      "If the battery still does not charge or drains quickly, consider battery health diagnostics or replacement."
+    ]
+  },
+  "bluetooth_issue": {
+    "title": "Bluetooth Connection Problem",
+    "steps": [
+      "Make sure Bluetooth is enabled on both devices.",
+      "Place the devices close together and remove any major interference sources.",
+      "Forget the Bluetooth device and pair it again.",
+      "Check whether the accessory is already connected to another device.",
+      "Restart Bluetooth on your device or reboot both devices.",
+      "Update the Bluetooth driver or system software if pairing continues to fail."
+    ]
+  },
+  "update_issue": {
+    "title": "Software Update Problem",
+    "steps": [
+      "Check that the device has a stable internet connection.",
+      "Ensure there is enough free storage space to download and install updates.",
+      "Restart the device and try the update again.",
+      "Temporarily disable VPN or proxy settings that may interrupt update servers.",
+      "Review the update error code in system settings for more specific guidance.",
+      "If the update still fails, download the update manually from the official vendor site if available."
+    ]
+  },
+  "storage_issue": {
+    "title": "Low Storage Problem",
+    "steps": [
+      "Delete unnecessary files such as large downloads, videos, or duplicate documents.",
+      "Empty the recycle bin or trash folder to reclaim space.",
+      "Uninstall applications you no longer use.",
+      "Move large files to cloud storage or an external drive.",
+      "Clear temporary files and browser cache.",
+      "Restart the device and confirm available storage has increased."
+    ]
+  },
+  "browser_issue": {
+    "title": "Browser Not Working Properly",
+    "steps": [
+      "Refresh the page and test whether the issue happens on multiple websites.",
+      "Clear browser cache and cookies.",
+      "Disable extensions one by one to find out whether an add-on is causing the problem.",
+      "Update the browser to the latest version.",
+      "Try opening the site in incognito mode or a different browser.",
+      "Restart the browser or reinstall it if crashes continue."
+    ]
+  },
+  "vpn_issue": {
+    "title": "VPN Connection Problem",
+    "steps": [
+      "Confirm that your internet connection works without the VPN.",
+      "Verify your VPN username, password, and server address.",
+      "Disconnect and reconnect to the VPN service.",
+      "Try a different VPN server location if one is available.",
+      "Restart the VPN application and your device.",
+      "If the VPN still fails, contact your network administrator for server-side checks."
+    ]
+  },
+  "security_alert": {
+    "title": "Security Warning or Suspicious Activity",
+    "steps": [
+      "Disconnect from the internet if you suspect active malicious behavior.",
+      "Run a full antivirus or endpoint protection scan immediately.",
+      "Change passwords for important accounts from a trusted device.",
+      "Review recent login history or unusual account activity.",
+      "Install all pending security and operating system updates.",
+      "Report the incident to your IT or security team if this is a work device."
+    ]
+  },
+  "app_crash": {
+    "title": "Application Crash or Freeze",
+    "steps": [
+      "Close and reopen the application.",
+      "Restart the device to clear temporary conflicts.",
+      "Check for updates for the application and install the latest version.",
+      "Make sure the system meets the app's minimum requirements and has enough free memory.",
+      "Reset the app settings or reinstall the application if the crashes continue.",
+      "Review any error messages or logs for a more specific failure clue."
+    ]
+  },
+  "webcam_issue": {
+    "title": "Webcam Not Working",
+    "steps": [
+      "Make sure no other application is currently using the camera.",
+      "Check the camera privacy settings and allow access for the affected app.",
+      "Reconnect the external webcam or restart the laptop camera service.",
+      "Test the webcam in another app to confirm whether the issue is app-specific.",
+      "Update or reinstall the camera driver.",
+      "Restart the device if the camera feed remains blank."
+    ]
+  },
+  "keyboard_issue": {
+    "title": "Keyboard Not Responding",
+    "steps": [
+      "Reconnect the keyboard or replace the batteries if it is wireless.",
+      "Test another USB port or Bluetooth pairing if the keyboard is external.",
+      "Restart the computer to reset input services.",
+      "Check whether Filter Keys or similar accessibility settings are interfering.",
+      "Update or reinstall the keyboard driver from device settings.",
+      "If only specific keys fail, clean the keyboard and check for physical damage."
+    ]
+  },
+  "network_drive_issue": {
+    "title": "Network Drive Access Problem",
+    "steps": [
+      "Confirm that you are connected to the correct office or VPN network.",
+      "Check that the shared drive path is correct and still available.",
+      "Try disconnecting and reconnecting the mapped network drive.",
+      "Verify that your account still has permission to access the shared folder.",
+      "Restart File Explorer or the computer if the drive appears offline.",
+      "Contact the server or IT administrator if the share is unavailable for multiple users."
+    ]
+  }
+}
